@@ -1,4 +1,6 @@
 ferret
 ======
 
-A continuation of my 'ferret' project that extracts useful information from networks.
+This is just a mirror of the code at:
+http://ferret.googlecode.com
+
